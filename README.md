@@ -1,4 +1,4 @@
-№№ YachtJet - Single Page Website
+## YachtJet - Single Page Website
 YachtJet is a single-page website designed to showcase luxury yacht rentals. The site includes key sections to provide information about the company, its fleet, customer reviews, and a contact form for renting a yacht.
 
 **Features**
